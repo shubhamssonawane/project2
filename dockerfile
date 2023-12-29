@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER shubhamsonawane498@gmail.com
+MAINTAINER rr7309178@gmail.com
 RUN apt-get update -y
 RUN apt-get install nginx -y
 RUN apt-get install zip -y
